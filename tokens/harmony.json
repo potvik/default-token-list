@@ -133,7 +133,7 @@
 		"symbol": "VINCI",
 		"name": "DaVinci Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png"
+		"logoURI": "https://davinci.gallery/media/vinci_blue.png"
 	},
 	{
 		"chainId": 1666600000,
